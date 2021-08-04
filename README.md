@@ -10,7 +10,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
 
-to know how to get them click on the  #[ link ](https://github.com/divyanshprakash/slam_aria_mirror_bot_HEROKU)
+to know how to get them click on the  #[ link ](https://github.com/yash-dk/TorToolkit-Telegram)
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
